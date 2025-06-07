@@ -1,6 +1,3 @@
-# AI_Engineering_Projects_Advanced_MachineLearning
-My AI Engineering Master's Projects - Machine Learning: Models and Algorithms Module
-
 # Classificazione Frutti Esotici
 Progetto di Machine Learning per migliorare la classificazione dei frutti esotici di TropicTaste Inc., passando da un processo manuale ad uno automatico e preciso
 
